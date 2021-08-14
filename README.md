@@ -17,4 +17,4 @@ Lesson 06:求最大化問題的HC，裡面有四種測試函數可以玩。因�
 
 Lesson 10:SA，還沒看
 
-Lesson 11:用HC/SA求解旅行銷售員問題TSP，還沒看
+Lesson 11:用HC/SA求解旅行銷售員問題TSP，我沒寫
